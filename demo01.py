@@ -5,3 +5,5 @@
 a=input("")
 b=input("")
 print(len(a+b))
+print（11111)
+pprint(22222)
